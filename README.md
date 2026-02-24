@@ -59,7 +59,9 @@ Based on analytical insights, the following strategic interventions are recommen
 * Monitor revenue trends, genre performance, and customer spending.
 * Use insights for forecasting and proactive decision-making.
 
-**Methodology and Tools :-** The analysis followed a structured Exploratory Data Analysis (EDA) approach.
+**Methodology and Tools :-** 
+
+The analysis followed a structured Exploratory Data Analysis (EDA) approach.
 
 **1. Data Wrangling**
 
